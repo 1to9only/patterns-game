@@ -1,0 +1,594 @@
+SUBMITS:
+
+total games = 460
+total players = 46
+total submitted = 46556 (as posted in Patterns Game Results)
+total verified = 46538 (posted rating match SE re-rating)
+
+total submitted (including trumped and more):
+m_b_metcalf:10983
+gsf:6153
+champagne:5549
+JPF:4500
+1to9only:4333
+joel64:2858
+Pat:1927
+Patrice:1776
+ronk:1391
+Robbie:1072
+Mauricio:876
+dobrichev:859
+TTHsieh:848
+papy999:608
+Hajime:464
+tarek:347
+coloin:296
+WosRet:291
+GouinJP:283
+dinev:223
+ssxsssxs:157
+BryanL:143
+999_Springs:107
+CSC:82
+pseudocoup:81
+enxio27:74
+200e200w:48
+SCLT:45
+blue:44
+eleven:24
+xzccs:18
+qiuyanzhe:13
+urhegyi:13
+jovi_al01:10
+mario133:9
+surbier:7
+daj95376:5
+Eioru:5
+Ruud:5
+wintder:4
+g.r.emlin:2
+billeioru:1
+claudiarabia:1
+draco:1
+ronk-Moderator:1
+skysea575:1
+total:46538
+
+most submissions for a player in a game (top 20):
+champagne:129 in game 238
+champagne:118 in game 235
+champagne:92 in game 258
+champagne:82 in game 259
+champagne:82 in game 240
+champagne:81 in game 93
+champagne:76 in game 246
+gsf:71 in game 20
+champagne:69 in game 107
+champagne:68 in game 241
+joel64:68 in game 114
+gsf:67 in game 38
+champagne:66 in game 204
+gsf:65 in game 196
+gsf:63 in game 30
+1to9only:62 in game 386
+gsf:62 in game 221
+champagne:62 in game 211
+ronk:62 in game 124
+gsf:62 in game 41
+
+most players in a game (top 3):
+10: game 126
+ 9: game 130
+ 8: games 35, 125, 142, 152, 155, 318, 327
+
+most distinct ERs submitted in a game (top 4, limit: 40 games):
+80 in games 284, 298
+79 in games 239, 294, 299, 347, 443
+78 in games 211, 288, 403, 424, 433
+77 in games 252, 254, 260, 271, 306, 369, 386, 390, 399, 414, 418, 421, 423
+
+most diamonds submitted in a game (ER>=2.5) (top 5, limit: 40 games):
+49 in games 269, 315, 368, 373, 384
+48 in games 181, 329, 365
+47 in games 192, 218, 261, 268, 294, 302, 312, 314, 328, 335, 351, 382, 432, 437, 455
+
+most pearls submitted in a game (ER>=2.5) (top 5, limit: 40 games):
+64 in game 418
+63 in games 315, 421, 424
+62 in games 284, 351
+61 in games 314, 365, 397, 425, 445, 457
+60 in games 191, 211, 335, 362, 388, 391, 394, 404, 419, 431, 442, 454
+
+most submissions in a game (top 20):
+214 in game 20
+207 in game 154
+188 in game 93
+184 in games 124, 126
+183 in game 130
+179 in game 235
+176 in game 223
+173 in game 133
+169 in game 125
+168 in games 148, 238
+167 in game 193
+164 in games 99, 141
+163 in game 222
+162 in game 17
+160 in game 118
+158 in game 134
+154 in game 22
+153 in games 128, 196, 258
+152 in games 129, 226
+151 in games 30, 91, 218
+
+least submissions in a game (top 20):
+14 in game 171
+16 in game 337
+19 in game 144
+22 in game 113
+24 in game 169
+27 in game 381
+30 in game 331
+35 in games 2, 249
+38 in game 44
+41 in game 9
+42 in games 55, 256, 290
+43 in games 360, 376
+46 in game 43
+47 in games 121, 250
+49 in game 321
+50 in game 5
+51 in games 8, 247
+52 in game 14
+53 in games 11, 116
+54 in game 1
+
+overall ratings table
+rating: ER:   EP:   ED: pearl: diamond
+ 1.0     0    55    55     0     0
+ 1.2   433  5246  5246     0   432
+ 1.5   616  1148  1148     0   346
+ 1.7   537   139   139     0    46
+ 2.0   572  1775  1775     0   412
+ 2.3   578   606   606     0   199
+ 2.5   491   703   703     0   352
+ 2.6   536   709  5564     0   219
+ 2.8   507   853  1470    32   335
+ 3.0   517   905  1578    51   339
+ 3.2   635   473   564   120   186
+ 3.4   505  1570  5067    46   381
+ 3.6   532  1217  1123    79   336
+ 3.8   601  1098  1955   132   232
+ 4.0   603   906   506   188   229
+ 4.2   718  1060   407   223   240
+ 4.4   701   660   370   178   224
+ 4.5   910  1030     2   516     2
+ 4.6   840   475     1   357     1
+ 4.7   732   495     1   299     1
+ 4.8   477    61     0    58     0
+ 4.9   207     0     0     0     0
+ 5.0   693   353    33   176    19
+ 5.1    75     0     0     0     0
+ 5.2   740    85    47    57     5
+ 5.3     1     0     0     0     0
+ 5.4   135    88    28    48    11
+ 5.6   999     0     0     0     0
+ 5.7   924     0     0     0     0
+ 5.8   615     0     0     0     0
+ 5.9   537     0     0     0     0
+ 6.0   351     0     0     0     0
+ 6.1   103     0     0     0     0
+ 6.2   696   317   139   179   122
+ 6.5   822   120     2   119     1
+ 6.6   628   765   820   142   289
+ 6.7   647  1087  1213   165   269
+ 6.8   895   431    38   371    34
+ 6.9   877   239     3   234     3
+ 7.0   651   412   274   146   248
+ 7.1   573   786  1064   134   348
+ 7.2   596   989  1082   162   350
+ 7.3   608   882   726   171   329
+ 7.4   800   690   262   388   233
+ 7.5   732   553   297   281   243
+ 7.6   707   605   495   267   245
+ 7.7   908   641    89   562    53
+ 7.8   665   683   729   215   273
+ 7.9   926   615    81   574    24
+ 8.0   909   505    18   502     2
+ 8.1   633   130     0   130     0
+ 8.2   705   539   381   241   287
+ 8.3   598   601   668   159   348
+ 8.4   635   649   643   204   334
+ 8.5   711   670   492   268   322
+ 8.6   851   710   239   469   219
+ 8.7   825   644   207   441   203
+ 8.8   669   560   388   238   313
+ 8.9   640   570   487   216   332
+ 9.0   647   600   635   225   344
+ 9.1   674   614   572   273   319
+ 9.2   633   592   808   256   318
+ 9.3   650   624   764   305   284
+ 9.4   657   635   895   334   264
+ 9.5   605   579   448   342   216
+ 9.6   571   532   291   335   187
+ 9.7   564   519   294   329   185
+ 9.8   568   524   359   332   187
+ 9.9   541   507   579   290   207
+10.0   496   480   339   298   168
+10.1   438   419   185   285   129
+10.2   420   369   132   263   105
+10.3   449   401   143   286   114
+10.4   499   456   266   313   141
+10.5   465   426   276   294   132
+10.6   438   422   232   296   120
+10.7   324   299    64   257    41
+10.8   204   177    15   170     6
+10.9    72    47     4    45     2
+11.0    55    35     1    34     1
+11.1    89    67     9    64     3
+11.2    69    50     1    50     0
+11.3    52    39     1    39     0
+11.4    19    15     0    15     0
+11.5     3     2     0     2     0
+11.6     3     3     0     3     0
+11.7     2     0     0     0     0
+11.8     3     2     0     2     0
+11.9     0     0     0     0     0
+
+most played ERs [from overall ratings table] (top 10):
+5.6:999
+7.9:926
+5.7:924
+4.5:910
+8.0:909
+7.7:908
+6.8:895
+6.9:877
+8.6:851
+4.6:840
+
+most played EPs [from overall ratings table] (top 10):
+1.2:5246
+2.0:1775
+3.4:1570
+3.6:1217
+1.5:1148
+3.8:1098
+6.7:1087
+4.2:1060
+4.5:1030
+7.2:989
+
+most played EDs [from overall ratings table] (top 10):
+2.6:5564
+1.2:5246
+3.4:5067
+3.8:1955
+2.0:1775
+3.0:1578
+2.8:1470
+6.7:1213
+1.5:1148
+3.6:1123
+
+most played pearls [ER=EP] [from overall ratings table] (top 10):
+7.9:574
+7.7:562
+4.5:516
+8.0:502
+8.6:469
+8.7:441
+7.4:388
+6.8:371
+4.6:357
+9.5:342
+
+most played diamonds [ER=EP=ED] [from overall ratings table] (top 10):
+1.2:432
+2.0:412
+3.4:381
+2.5:352
+7.2:350
+7.1:348
+8.3:348
+1.5:346
+9.0:344
+3.0:339
+
+most played ER/EP/ED (no diamonds):
+1.7/1.5/1.5:272
+1.5/1.2/1.2:269
+4.5/4.5/3.4:234
+1.7/1.2/1.2:218
+2.3/2.0/2.0:217
+4.6/4.6/3.4:206
+4.7/4.7/3.4:197
+6.0/1.2/1.2:188
+5.8/1.2/1.2:186
+5.9/1.2/1.2:183
+
+most played ER/EP/ED (no diamonds/pearls):
+1.7/1.5/1.5:272
+1.5/1.2/1.2:269
+1.7/1.2/1.2:218
+2.3/2.0/2.0:217
+6.0/1.2/1.2:188
+5.8/1.2/1.2:186
+5.9/1.2/1.2:183
+5.0/1.2/1.2:168
+4.8/1.2/1.2:166
+5.2/1.2/1.2:158
+
+for each ER, who submitted the most pearls [ER=EP<>ED] (top 7):
+ 1.0
+ 1.2
+ 1.5
+ 1.7
+ 2.0
+ 2.3
+ 2.5
+ 2.6
+ 2.8 (gsf:8), (m_b_metcalf:7), (JPF:4), (joel64:3), (Mauricio:3), (1to9only:2), (dobrichev:1)
+ 3.0 (m_b_metcalf:16), (gsf:13), (joel64:5), (JPF:4), (1to9only:3), (Mauricio:3), (Hajime:2)
+ 3.2 (champagne:21), (m_b_metcalf:18), (gsf:13), (joel64:12), (JPF:12), (1to9only:10), (Pat:10)
+ 3.4 (m_b_metcalf:18), (gsf:13), (JPF:4), (Mauricio:2), (champagne:1), (dobrichev:1), (joel64:1)
+ 3.6 (m_b_metcalf:20), (gsf:17), (champagne:10), (1to9only:9), (JPF:8), (joel64:5), (tarek:2)
+ 3.8 (champagne:24), (m_b_metcalf:22), (gsf:15), (JPF:13), (1to9only:10), (joel64:9), (Mauricio:5)
+ 4.0 (m_b_metcalf:50), (gsf:29), (1to9only:17), (joel64:16), (JPF:15), (champagne:14), (Pat:11)
+ 4.2 (m_b_metcalf:54), (gsf:36), (champagne:26), (JPF:22), (joel64:18), (1to9only:11), (ronk:11)
+ 4.4 (m_b_metcalf:35), (gsf:21), (JPF:20), (champagne:19), (joel64:16), (1to9only:15), (Pat:11)
+ 4.5 (m_b_metcalf:118), (champagne:80), (JPF:52), (1to9only:51), (gsf:42), (joel64:35), (Pat:35)
+ 4.6 (m_b_metcalf:61), (champagne:57), (1to9only:46), (JPF:35), (joel64:30), (Pat:30), (Patrice:17)
+ 4.7 (m_b_metcalf:48), (champagne:47), (1to9only:44), (JPF:32), (joel64:23), (Patrice:21), (Pat:20)
+ 4.8 (1to9only:24), (champagne:12), (Patrice:7), (m_b_metcalf:4), (gsf:2), (joel64:2), (JPF:2)
+ 4.9
+ 5.0 (champagne:39), (1to9only:27), (m_b_metcalf:26), (gsf:14), (joel64:14), (Patrice:10), (JPF:9)
+ 5.1
+ 5.2 (1to9only:15), (champagne:10), (JPF:6), (dobrichev:4), (joel64:4), (m_b_metcalf:4), (Pat:3)
+ 5.3
+ 5.4 (1to9only:9), (gsf:8), (champagne:7), (m_b_metcalf:6), (joel64:4), (JPF:3), (Pat:3)
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 6.0
+ 6.1
+ 6.2 (champagne:41), (1to9only:22), (JPF:20), (m_b_metcalf:17), (joel64:14), (Pat:11), (Robbie:11)
+ 6.5 (1to9only:35), (champagne:30), (JPF:9), (joel64:7), (dobrichev:6), (m_b_metcalf:6), (Pat:6)
+ 6.6 (m_b_metcalf:38), (JPF:21), (joel64:15), (gsf:13), (champagne:12), (Mauricio:9), (1to9only:7)
+ 6.7 (m_b_metcalf:40), (gsf:24), (JPF:19), (joel64:16), (1to9only:13), (champagne:11), (Pat:7)
+ 6.8 (champagne:70), (1to9only:55), (JPF:42), (m_b_metcalf:37), (joel64:28), (Pat:26), (gsf:19)
+ 6.9 (1to9only:52), (champagne:41), (JPF:22), (joel64:21), (Pat:21), (Patrice:14), (dobrichev:11)
+ 7.0 (m_b_metcalf:39), (gsf:32), (JPF:14), (ronk:10), (1to9only:9), (joel64:9), (champagne:7)
+ 7.1 (m_b_metcalf:49), (gsf:27), (JPF:10), (TTHsieh:9), (champagne:5), (Mauricio:5), (ronk:5)
+ 7.2 (m_b_metcalf:48), (gsf:33), (JPF:22), (TTHsieh:8), (champagne:6), (joel64:6), (Mauricio:6)
+ 7.3 (m_b_metcalf:69), (gsf:27), (JPF:16), (champagne:11), (1to9only:8), (ronk:7), (TTHsieh:6)
+ 7.4 (m_b_metcalf:124), (gsf:71), (JPF:39), (joel64:24), (1to9only:20), (champagne:20), (Patrice:18)
+ 7.5 (m_b_metcalf:77), (gsf:56), (JPF:29), (1to9only:22), (champagne:20), (joel64:16), (ronk:11)
+ 7.6 (m_b_metcalf:66), (gsf:44), (JPF:30), (1to9only:24), (champagne:23), (joel64:22), (ronk:14)
+ 7.7 (m_b_metcalf:132), (champagne:71), (gsf:68), (JPF:65), (1to9only:56), (Patrice:28), (ronk:24)
+ 7.8 (m_b_metcalf:50), (champagne:27), (gsf:26), (JPF:25), (Patrice:15), (1to9only:12), (joel64:11)
+ 7.9 (champagne:85), (m_b_metcalf:77), (JPF:74), (gsf:64), (1to9only:60), (Patrice:37), (joel64:30)
+ 8.0 (champagne:119), (JPF:68), (1to9only:51), (Patrice:43), (m_b_metcalf:37), (gsf:33), (Pat:28)
+ 8.1 (1to9only:36), (champagne:36), (JPF:15), (Patrice:8), (Robbie:8), (dobrichev:6), (ronk:6)
+ 8.2 (m_b_metcalf:62), (gsf:49), (JPF:33), (champagne:18), (1to9only:14), (joel64:14), (Patrice:10)
+ 8.3 (m_b_metcalf:48), (gsf:39), (JPF:14), (TTHsieh:12), (Mauricio:9), (champagne:7), (joel64:7)
+ 8.4 (m_b_metcalf:64), (gsf:41), (JPF:26), (champagne:12), (TTHsieh:12), (1to9only:8), (Mauricio:8)
+ 8.5 (m_b_metcalf:94), (gsf:45), (JPF:21), (champagne:17), (joel64:12), (ronk:11), (1to9only:10)
+ 8.6 (m_b_metcalf:134), (gsf:70), (JPF:49), (champagne:37), (joel64:29), (1to9only:25), (Patrice:22)
+ 8.7 (m_b_metcalf:105), (gsf:72), (champagne:53), (JPF:47), (joel64:26), (1to9only:21), (Patrice:19)
+ 8.8 (m_b_metcalf:63), (gsf:43), (JPF:32), (champagne:19), (joel64:16), (TTHsieh:12), (Mauricio:7)
+ 8.9 (m_b_metcalf:72), (gsf:48), (JPF:25), (1to9only:11), (champagne:11), (joel64:8), (Patrice:7)
+ 9.0 (m_b_metcalf:64), (gsf:48), (JPF:30), (champagne:17), (1to9only:8), (joel64:8), (Mauricio:8)
+ 9.1 (m_b_metcalf:88), (gsf:48), (JPF:38), (champagne:18), (Mauricio:12), (joel64:10), (TTHsieh:10)
+ 9.2 (m_b_metcalf:76), (gsf:39), (JPF:32), (champagne:17), (joel64:13), (TTHsieh:10), (Mauricio:9)
+ 9.3 (m_b_metcalf:85), (gsf:53), (JPF:42), (champagne:23), (joel64:20), (Mauricio:12), (Patrice:11)
+ 9.4 (m_b_metcalf:102), (champagne:41), (JPF:34), (gsf:33), (joel64:30), (Patrice:15), (Mauricio:10)
+ 9.5 (m_b_metcalf:89), (JPF:47), (champagne:45), (gsf:34), (joel64:27), (Patrice:21), (1to9only:16)
+ 9.6 (m_b_metcalf:74), (champagne:51), (JPF:49), (gsf:35), (joel64:26), (Patrice:26), (1to9only:23)
+ 9.7 (m_b_metcalf:84), (champagne:48), (JPF:45), (joel64:28), (gsf:27), (Patrice:21), (1to9only:15)
+ 9.8 (m_b_metcalf:92), (champagne:45), (JPF:41), (joel64:26), (gsf:25), (Patrice:23), (1to9only:19)
+ 9.9 (m_b_metcalf:87), (JPF:40), (champagne:34), (joel64:29), (gsf:23), (Patrice:20), (1to9only:11)
+10.0 (m_b_metcalf:84), (champagne:40), (JPF:37), (joel64:26), (Patrice:22), (gsf:21), (1to9only:14)
+10.1 (m_b_metcalf:73), (JPF:42), (champagne:36), (Patrice:24), (gsf:20), (1to9only:19), (joel64:17)
+10.2 (m_b_metcalf:50), (champagne:48), (JPF:44), (joel64:23), (1to9only:22), (Patrice:15), (ronk:11)
+10.3 (m_b_metcalf:61), (champagne:44), (JPF:43), (1to9only:23), (joel64:21), (Patrice:17), (gsf:15)
+10.4 (m_b_metcalf:74), (JPF:46), (champagne:43), (joel64:27), (1to9only:22), (Patrice:19), (gsf:18)
+10.5 (m_b_metcalf:69), (champagne:49), (JPF:35), (joel64:32), (gsf:21), (1to9only:18), (Patrice:13)
+10.6 (m_b_metcalf:78), (champagne:57), (JPF:52), (joel64:18), (1to9only:15), (Patrice:14), (dobrichev:8)
+10.7 (champagne:61), (JPF:49), (m_b_metcalf:39), (1to9only:22), (Robbie:12), (Patrice:11), (dobrichev:10)
+10.8 (champagne:43), (JPF:40), (1to9only:20), (m_b_metcalf:20), (Robbie:10), (Patrice:9), (dobrichev:4)
+10.9 (JPF:13), (champagne:10), (1to9only:7), (m_b_metcalf:5), (Patrice:3), (papy999:2), (dobrichev:1)
+11.0 (champagne:10), (JPF:10), (1to9only:4), (Patrice:2), (coloin:1), (gsf:1), (Hajime:1)
+11.1 (champagne:15), (JPF:12), (m_b_metcalf:12), (1to9only:7), (Patrice:4), (ssxsssxs:3), (Mauricio:2)
+11.2 (JPF:15), (champagne:10), (1to9only:7), (m_b_metcalf:3), (Patrice:3), (Robbie:3), (coloin:2)
+11.3 (1to9only:12), (champagne:9), (JPF:5), (m_b_metcalf:3), (coloin:2), (ssxsssxs:2), (blue:1)
+11.4 (1to9only:4), (champagne:2), (gsf:2), (Patrice:2), (blue:1), (JPF:1), (m_b_metcalf:1)
+11.5 (Patrice:1), (ssxsssxs:1)
+11.6 (1to9only:1), (champagne:1), (JPF:1)
+11.7
+11.8 (1to9only:1), (gsf:1)
+11.9
+
+for each ER, who submitted the most diamonds [ER=EP=ED] (top 7):
+ 1.0
+ 1.2 (m_b_metcalf:145), (gsf:92), (1to9only:65), (JPF:21), (joel64:19), (champagne:14), (Mauricio:11)
+ 1.5 (m_b_metcalf:97), (gsf:85), (1to9only:65), (champagne:20), (JPF:16), (Pat:14), (Mauricio:7)
+ 1.7 (m_b_metcalf:20), (1to9only:7), (gsf:7), (champagne:4), (joel64:2), (JPF:2), (ssxsssxs:2)
+ 2.0 (m_b_metcalf:145), (gsf:72), (1to9only:36), (joel64:35), (JPF:26), (champagne:15), (Pat:12)
+ 2.3 (m_b_metcalf:67), (gsf:64), (1to9only:16), (Pat:12), (champagne:6), (joel64:6), (JPF:5)
+ 2.5 (m_b_metcalf:101), (gsf:56), (1to9only:41), (joel64:31), (Pat:19), (JPF:17), (champagne:13)
+ 2.6 (m_b_metcalf:73), (gsf:45), (joel64:22), (1to9only:13), (JPF:11), (champagne:10), (Pat:8)
+ 2.8 (m_b_metcalf:90), (gsf:53), (joel64:40), (1to9only:33), (JPF:21), (Pat:21), (champagne:14)
+ 3.0 (m_b_metcalf:114), (gsf:50), (1to9only:29), (joel64:29), (champagne:20), (Pat:17), (JPF:13)
+ 3.2 (m_b_metcalf:38), (1to9only:26), (gsf:20), (joel64:18), (champagne:15), (JPF:14), (Pat:12)
+ 3.4 (m_b_metcalf:119), (gsf:55), (joel64:43), (1to9only:29), (JPF:19), (champagne:16), (Pat:14)
+ 3.6 (m_b_metcalf:107), (gsf:44), (1to9only:37), (joel64:28), (champagne:21), (JPF:17), (Pat:17)
+ 3.8 (m_b_metcalf:79), (1to9only:26), (gsf:22), (joel64:18), (Pat:14), (champagne:12), (JPF:11)
+ 4.0 (m_b_metcalf:49), (1to9only:39), (champagne:25), (gsf:19), (JPF:15), (Pat:15), (joel64:13)
+ 4.2 (m_b_metcalf:53), (1to9only:37), (champagne:35), (joel64:20), (JPF:16), (gsf:15), (Pat:12)
+ 4.4 (1to9only:43), (champagne:30), (m_b_metcalf:28), (joel64:18), (ronk:16), (Pat:15), (Robbie:13)
+ 4.5 (1to9only:1), (dobrichev:1)
+ 4.6 (champagne:1)
+ 4.7 (Patrice:1)
+ 4.8
+ 4.9
+ 5.0 (1to9only:4), (champagne:4), (joel64:3), (gsf:2), (Pat:2), (dobrichev:1), (JPF:1)
+ 5.1
+ 5.2 (gsf:2), (m_b_metcalf:2), (JPF:1)
+ 5.3
+ 5.4 (champagne:3), (1to9only:1), (gsf:1), (joel64:1), (JPF:1), (m_b_metcalf:1), (Mauricio:1)
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 6.0
+ 6.1
+ 6.2 (1to9only:32), (champagne:28), (Patrice:10), (Robbie:8), (dobrichev:7), (m_b_metcalf:7), (joel64:6)
+ 6.5 (1to9only:1)
+ 6.6 (m_b_metcalf:112), (1to9only:25), (gsf:25), (joel64:25), (champagne:15), (ronk:11), (JPF:10)
+ 6.7 (m_b_metcalf:98), (champagne:28), (1to9only:27), (joel64:25), (gsf:24), (Patrice:9), (JPF:8)
+ 6.8 (champagne:10), (1to9only:9), (dobrichev:3), (gsf:3), (Pat:3), (Patrice:2), (Robbie:2)
+ 6.9 (1to9only:2), (champagne:1)
+ 7.0 (1to9only:43), (m_b_metcalf:40), (champagne:32), (joel64:19), (JPF:16), (gsf:15), (Patrice:15)
+ 7.1 (m_b_metcalf:145), (gsf:31), (1to9only:25), (JPF:22), (joel64:21), (champagne:20), (ronk:11)
+ 7.2 (m_b_metcalf:145), (gsf:28), (1to9only:26), (champagne:23), (joel64:20), (JPF:19), (ronk:11)
+ 7.3 (m_b_metcalf:110), (1to9only:36), (joel64:28), (JPF:28), (champagne:22), (gsf:19), (Patrice:18)
+ 7.4 (champagne:51), (1to9only:47), (m_b_metcalf:25), (JPF:17), (Patrice:14), (gsf:13), (joel64:13)
+ 7.5 (champagne:52), (1to9only:43), (m_b_metcalf:21), (joel64:15), (ronk:15), (gsf:14), (Pat:13)
+ 7.6 (m_b_metcalf:51), (champagne:38), (1to9only:29), (gsf:17), (Patrice:17), (JPF:16), (Pat:15)
+ 7.7 (champagne:14), (joel64:6), (m_b_metcalf:5), (dobrichev:4), (JPF:4), (Pat:4), (Patrice:4)
+ 7.8 (m_b_metcalf:100), (1to9only:31), (gsf:27), (champagne:24), (joel64:18), (JPF:13), (ronk:10)
+ 7.9 (champagne:5), (m_b_metcalf:5), (joel64:4), (1to9only:3), (dobrichev:1), (gsf:1), (Mauricio:1)
+ 8.0 (gsf:1), (ronk:1)
+ 8.1
+ 8.2 (1to9only:53), (m_b_metcalf:44), (champagne:39), (gsf:20), (Patrice:19), (ronk:17), (joel64:15)
+ 8.3 (m_b_metcalf:113), (1to9only:40), (gsf:37), (champagne:25), (joel64:22), (JPF:20), (Patrice:17)
+ 8.4 (m_b_metcalf:145), (champagne:31), (gsf:26), (1to9only:24), (joel64:20), (JPF:17), (ronk:12)
+ 8.5 (m_b_metcalf:91), (1to9only:38), (champagne:34), (gsf:24), (joel64:23), (JPF:21), (Patrice:19)
+ 8.6 (champagne:47), (1to9only:39), (JPF:23), (Patrice:17), (ronk:16), (gsf:13), (Robbie:13)
+ 8.7 (champagne:48), (1to9only:46), (JPF:18), (Patrice:16), (Robbie:12), (dobrichev:11), (joel64:11)
+ 8.8 (m_b_metcalf:64), (1to9only:46), (champagne:35), (joel64:24), (Patrice:23), (JPF:20), (gsf:17)
+ 8.9 (m_b_metcalf:109), (champagne:38), (1to9only:35), (gsf:22), (joel64:20), (JPF:19), (Patrice:18)
+ 9.0 (m_b_metcalf:140), (1to9only:33), (champagne:32), (gsf:24), (joel64:19), (JPF:16), (Patrice:16)
+ 9.1 (m_b_metcalf:124), (champagne:30), (1to9only:29), (joel64:21), (gsf:19), (Patrice:19), (JPF:15)
+ 9.2 (m_b_metcalf:138), (1to9only:28), (champagne:26), (joel64:21), (gsf:20), (Patrice:17), (JPF:13)
+ 9.3 (m_b_metcalf:116), (champagne:27), (1to9only:25), (JPF:22), (Patrice:18), (joel64:15), (gsf:12)
+ 9.4 (m_b_metcalf:105), (1to9only:28), (champagne:24), (JPF:22), (gsf:18), (Patrice:18), (joel64:11)
+ 9.5 (m_b_metcalf:59), (1to9only:29), (JPF:29), (champagne:21), (Patrice:15), (Robbie:10), (gsf:9)
+ 9.6 (1to9only:36), (champagne:34), (m_b_metcalf:28), (JPF:21), (Patrice:11), (Robbie:11), (dobrichev:9)
+ 9.7 (m_b_metcalf:39), (champagne:36), (1to9only:30), (JPF:24), (Patrice:9), (dobrichev:8), (joel64:7)
+ 9.8 (m_b_metcalf:48), (1to9only:34), (champagne:29), (JPF:20), (Patrice:9), (gsf:6), (joel64:6)
+ 9.9 (m_b_metcalf:64), (champagne:34), (1to9only:25), (JPF:19), (Patrice:10), (joel64:9), (dobrichev:8)
+10.0 (champagne:35), (m_b_metcalf:28), (1to9only:25), (JPF:25), (Robbie:8), (ronk:8), (Patrice:7)
+10.1 (champagne:36), (1to9only:22), (JPF:21), (m_b_metcalf:9), (Robbie:8), (Patrice:6), (joel64:5)
+10.2 (champagne:29), (JPF:18), (1to9only:16), (m_b_metcalf:13), (dobrichev:6), (papy999:5), (Robbie:4)
+10.3 (champagne:33), (JPF:26), (1to9only:13), (m_b_metcalf:8), (Robbie:7), (Patrice:6), (papy999:5)
+10.4 (champagne:32), (m_b_metcalf:24), (1to9only:22), (JPF:18), (Patrice:7), (dobrichev:6), (Mauricio:6)
+10.5 (champagne:35), (JPF:23), (1to9only:18), (m_b_metcalf:12), (Robbie:8), (joel64:7), (papy999:6)
+10.6 (champagne:31), (JPF:24), (1to9only:22), (Robbie:9), (m_b_metcalf:7), (Mauricio:4), (papy999:4)
+10.7 (champagne:13), (1to9only:7), (JPF:6), (Robbie:4), (dobrichev:2), (m_b_metcalf:2), (Patrice:2)
+10.8 (champagne:4), (1to9only:1), (Robbie:1)
+10.9 (dobrichev:1), (JPF:1)
+11.0 (champagne:1)
+11.1 (champagne:2), (ssxsssxs:1)
+11.2
+11.3
+11.4
+11.5
+11.6
+11.7
+11.8
+11.9
+
+for each ER, who submitted the most entries (top 7):
+ 1.0
+ 1.2 (m_b_metcalf:145), (gsf:92), (1to9only:65), (JPF:21), (joel64:19), (champagne:14), (Mauricio:11)
+ 1.5 (m_b_metcalf:165), (gsf:89), (1to9only:67), (champagne:58), (Pat:40), (JPF:34), (coloin:29)
+ 1.7 (m_b_metcalf:249), (Pat:53), (gsf:50), (champagne:44), (JPF:31), (1to9only:30), (Mauricio:15)
+ 2.0 (m_b_metcalf:164), (gsf:76), (Pat:61), (1to9only:39), (joel64:36), (JPF:36), (tarek:32)
+ 2.3 (m_b_metcalf:207), (gsf:88), (Pat:60), (champagne:42), (1to9only:34), (JPF:29), (tarek:22)
+ 2.5 (m_b_metcalf:143), (gsf:83), (1to9only:53), (JPF:32), (joel64:31), (Pat:27), (champagne:21)
+ 2.6 (m_b_metcalf:214), (gsf:82), (JPF:31), (champagne:29), (Pat:29), (1to9only:28), (joel64:28)
+ 2.8 (m_b_metcalf:142), (gsf:86), (joel64:44), (1to9only:40), (JPF:37), (Pat:37), (TTHsieh:21)
+ 3.0 (m_b_metcalf:176), (gsf:83), (1to9only:41), (joel64:35), (champagne:30), (Pat:29), (JPF:28)
+ 3.2 (m_b_metcalf:162), (gsf:86), (1to9only:60), (champagne:56), (JPF:51), (Pat:44), (joel64:43)
+ 3.4 (m_b_metcalf:153), (gsf:91), (joel64:47), (1to9only:37), (JPF:28), (Pat:19), (champagne:18)
+ 3.6 (m_b_metcalf:157), (gsf:90), (1to9only:57), (champagne:37), (joel64:36), (JPF:31), (Pat:28)
+ 3.8 (m_b_metcalf:157), (gsf:82), (champagne:54), (JPF:54), (joel64:52), (1to9only:50), (Pat:29)
+ 4.0 (m_b_metcalf:123), (gsf:99), (1to9only:75), (JPF:54), (champagne:52), (Pat:38), (joel64:33)
+ 4.2 (m_b_metcalf:197), (gsf:105), (champagne:71), (1to9only:60), (JPF:54), (joel64:47), (Pat:38)
+ 4.4 (m_b_metcalf:150), (1to9only:87), (gsf:83), (champagne:63), (JPF:57), (joel64:51), (Pat:38)
+ 4.5 (m_b_metcalf:265), (gsf:117), (champagne:105), (JPF:80), (1to9only:67), (joel64:52), (Pat:51)
+ 4.6 (m_b_metcalf:203), (champagne:105), (gsf:98), (JPF:73), (1to9only:67), (joel64:64), (Pat:60)
+ 4.7 (m_b_metcalf:119), (gsf:101), (champagne:95), (JPF:78), (1to9only:70), (joel64:59), (Pat:49)
+ 4.8 (champagne:118), (1to9only:97), (gsf:48), (JPF:47), (Pat:34), (joel64:28), (Patrice:24)
+ 4.9 (1to9only:62), (champagne:62), (Pat:18), (Patrice:15), (Robbie:12), (JPF:10), (gsf:6)
+ 5.0 (champagne:112), (gsf:106), (1to9only:97), (m_b_metcalf:87), (JPF:64), (joel64:48), (Pat:41)
+ 5.1 (1to9only:25), (champagne:25), (JPF:6), (Pat:5), (Patrice:3), (dinev:2), (dobrichev:2)
+ 5.2 (champagne:125), (1to9only:100), (m_b_metcalf:97), (JPF:82), (gsf:80), (Pat:64), (joel64:56)
+ 5.3 (999_Springs:1)
+ 5.4 (1to9only:23), (gsf:22), (champagne:16), (m_b_metcalf:16), (joel64:14), (JPF:10), (Pat:8)
+ 5.6 (m_b_metcalf:260), (champagne:131), (gsf:100), (JPF:95), (1to9only:73), (joel64:72), (Pat:67)
+ 5.7 (m_b_metcalf:167), (champagne:150), (gsf:98), (JPF:90), (1to9only:79), (joel64:69), (Pat:63)
+ 5.8 (champagne:145), (1to9only:90), (gsf:85), (JPF:60), (Pat:46), (joel64:36), (m_b_metcalf:32)
+ 5.9 (champagne:111), (1to9only:94), (gsf:73), (JPF:53), (joel64:37), (Pat:37), (Patrice:27)
+ 6.0 (champagne:90), (1to9only:83), (Pat:34), (gsf:30), (JPF:29), (Patrice:20), (Robbie:16)
+ 6.1 (champagne:33), (1to9only:24), (gsf:10), (Pat:9), (Robbie:7), (dobrichev:5), (Patrice:4)
+ 6.2 (champagne:107), (gsf:94), (m_b_metcalf:91), (1to9only:79), (JPF:75), (joel64:50), (Pat:36)
+ 6.5 (m_b_metcalf:154), (champagne:120), (1to9only:87), (gsf:81), (JPF:77), (joel64:60), (Pat:55)
+ 6.6 (m_b_metcalf:212), (gsf:95), (joel64:53), (JPF:43), (champagne:37), (1to9only:35), (ronk:18)
+ 6.7 (m_b_metcalf:201), (gsf:111), (joel64:53), (champagne:47), (1to9only:46), (JPF:41), (TTHsieh:22)
+ 6.8 (m_b_metcalf:196), (gsf:121), (champagne:103), (JPF:89), (1to9only:87), (joel64:56), (Pat:45)
+ 6.9 (m_b_metcalf:177), (gsf:113), (champagne:98), (JPF:98), (1to9only:80), (joel64:73), (Pat:58)
+ 7.0 (m_b_metcalf:154), (gsf:106), (1to9only:64), (JPF:60), (champagne:52), (joel64:49), (Pat:31)
+ 7.1 (m_b_metcalf:221), (gsf:86), (JPF:41), (1to9only:32), (champagne:29), (joel64:27), (TTHsieh:18)
+ 7.2 (m_b_metcalf:211), (gsf:89), (JPF:45), (1to9only:34), (champagne:33), (joel64:32), (ronk:17)
+ 7.3 (m_b_metcalf:204), (gsf:93), (JPF:50), (1to9only:46), (champagne:36), (joel64:36), (ronk:28)
+ 7.4 (m_b_metcalf:182), (gsf:161), (champagne:80), (1to9only:73), (JPF:65), (joel64:48), (ronk:39)
+ 7.5 (m_b_metcalf:154), (gsf:135), (champagne:81), (1to9only:69), (JPF:59), (joel64:48), (ronk:34)
+ 7.6 (m_b_metcalf:170), (gsf:139), (champagne:66), (1to9only:57), (JPF:55), (joel64:47), (ronk:36)
+ 7.7 (m_b_metcalf:214), (gsf:162), (champagne:101), (JPF:83), (1to9only:70), (joel64:49), (ronk:40)
+ 7.8 (m_b_metcalf:202), (gsf:116), (champagne:59), (JPF:52), (1to9only:48), (joel64:37), (ronk:26)
+ 7.9 (m_b_metcalf:171), (gsf:147), (champagne:114), (JPF:98), (1to9only:74), (joel64:60), (ronk:45)
+ 8.0 (champagne:157), (JPF:120), (m_b_metcalf:119), (gsf:112), (1to9only:69), (joel64:60), (Patrice:51)
+ 8.1 (champagne:129), (1to9only:105), (JPF:92), (gsf:79), (Pat:37), (Patrice:37), (ronk:32)
+ 8.2 (m_b_metcalf:151), (gsf:140), (1to9only:74), (champagne:63), (JPF:60), (joel64:42), (ronk:32)
+ 8.3 (m_b_metcalf:183), (gsf:107), (1to9only:47), (JPF:42), (champagne:37), (joel64:33), (Patrice:21)
+ 8.4 (m_b_metcalf:228), (gsf:110), (JPF:48), (champagne:47), (joel64:35), (1to9only:34), (ronk:22)
+ 8.5 (m_b_metcalf:202), (gsf:128), (champagne:57), (1to9only:50), (JPF:47), (joel64:46), (ronk:28)
+ 8.6 (m_b_metcalf:170), (gsf:155), (champagne:95), (JPF:79), (1to9only:66), (ronk:49), (joel64:48)
+ 8.7 (m_b_metcalf:150), (gsf:139), (champagne:116), (1to9only:76), (JPF:76), (joel64:55), (ronk:39)
+ 8.8 (m_b_metcalf:153), (gsf:101), (JPF:64), (champagne:59), (1to9only:52), (joel64:51), (Patrice:28)
+ 8.9 (m_b_metcalf:202), (gsf:107), (champagne:53), (1to9only:50), (JPF:50), (joel64:33), (Patrice:25)
+ 9.0 (m_b_metcalf:220), (gsf:100), (JPF:56), (champagne:54), (1to9only:43), (joel64:32), (ronk:26)
+ 9.1 (m_b_metcalf:226), (gsf:104), (JPF:60), (champagne:52), (1to9only:38), (joel64:34), (Patrice:28)
+ 9.2 (m_b_metcalf:223), (gsf:78), (JPF:60), (champagne:46), (joel64:36), (1to9only:35), (Patrice:25)
+ 9.3 (m_b_metcalf:210), (gsf:81), (JPF:77), (champagne:55), (joel64:41), (1to9only:34), (Patrice:29)
+ 9.4 (m_b_metcalf:212), (JPF:73), (champagne:70), (gsf:59), (joel64:47), (1to9only:39), (Patrice:37)
+ 9.5 (m_b_metcalf:154), (JPF:85), (champagne:70), (gsf:55), (1to9only:48), (Patrice:38), (joel64:35)
+ 9.6 (m_b_metcalf:108), (champagne:95), (JPF:79), (1to9only:63), (gsf:49), (Patrice:38), (joel64:35)
+ 9.7 (m_b_metcalf:135), (champagne:89), (JPF:79), (1to9only:47), (joel64:37), (gsf:36), (Patrice:32)
+ 9.8 (m_b_metcalf:148), (champagne:85), (JPF:69), (1to9only:53), (gsf:37), (joel64:37), (Patrice:34)
+ 9.9 (m_b_metcalf:158), (champagne:78), (JPF:67), (1to9only:39), (joel64:39), (gsf:31), (Patrice:31)
+10.0 (m_b_metcalf:113), (champagne:82), (JPF:73), (1to9only:39), (joel64:31), (Patrice:30), (gsf:26)
+10.1 (m_b_metcalf:84), (champagne:79), (JPF:68), (1to9only:42), (Patrice:33), (gsf:23), (joel64:23)
+10.2 (champagne:84), (JPF:70), (m_b_metcalf:66), (1to9only:45), (joel64:27), (Patrice:22), (gsf:14)
+10.3 (champagne:92), (JPF:77), (m_b_metcalf:71), (1to9only:43), (joel64:26), (Patrice:25), (gsf:20)
+10.4 (m_b_metcalf:104), (champagne:86), (JPF:74), (1to9only:49), (joel64:29), (Patrice:28), (gsf:24)
+10.5 (champagne:91), (m_b_metcalf:84), (JPF:66), (1to9only:40), (joel64:39), (gsf:25), (Patrice:17)
+10.6 (champagne:95), (m_b_metcalf:87), (JPF:80), (1to9only:38), (joel64:20), (Patrice:17), (Robbie:13)
+10.7 (champagne:78), (JPF:63), (m_b_metcalf:44), (1to9only:33), (Robbie:18), (Patrice:14), (dobrichev:12)
+10.8 (champagne:52), (JPF:46), (1to9only:28), (m_b_metcalf:22), (Robbie:11), (Patrice:9), (dobrichev:5)
+10.9 (JPF:21), (champagne:20), (1to9only:8), (m_b_metcalf:6), (dobrichev:4), (Patrice:3), (papy999:2)
+11.0 (champagne:18), (JPF:18), (1to9only:4), (ssxsssxs:3), (gsf:2), (papy999:2), (Patrice:2)
+11.1 (champagne:22), (JPF:17), (m_b_metcalf:14), (1to9only:11), (ssxsssxs:6), (Patrice:5), (Hajime:3)
+11.2 (JPF:17), (champagne:12), (1to9only:11), (ssxsssxs:5), (m_b_metcalf:4), (coloin:3), (dobrichev:3)
+11.3 (1to9only:14), (champagne:10), (JPF:7), (m_b_metcalf:4), (ssxsssxs:4), (coloin:2), (dinev:2)
+11.4 (1to9only:7), (champagne:3), (gsf:2), (Patrice:2), (blue:1), (JPF:1), (m_b_metcalf:1)
+11.5 (1to9only:1), (Patrice:1), (ssxsssxs:1)
+11.6 (1to9only:1), (champagne:1), (JPF:1)
+11.7 (champagne:1), (JPF:1)
+11.8 (1to9only:2), (gsf:1)
+11.9
+

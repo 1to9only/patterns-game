@@ -1,0 +1,195 @@
+RESULTS:
+
+total games = 460
+total players = 49
+total entries = 28657
+total score = 3309781
+
+most players in a game (top 3):
+10: game 126
+ 9: game 130
+ 8: games 35, 125, 136, 142, 152, 155, 279, 318, 327
+
+most entries for a player in a game (top 20, tiebreak by score):
+joel64:44 in game 114 (score:7282)
+champagne:43 in game 294 (score:5409)
+Robbie:42 in game 361 (score:6058)
+Patrice:41 in game 166 (score:5668)
+JPF:41 in game 446 (score:5165)
+1to9only:41 in game 429 (score:4825)
+Patrice:41 in game 298 (score:4097)
+1to9only:40 in game 457 (score:5039)
+1to9only:40 in game 432 (score:4941)
+Robbie:40 in game 366 (score:4115)
+1to9only:39 in game 425 (score:5798)
+joel64:39 in game 190 (score:5766)
+champagne:39 in game 188 (score:5402)
+champagne:39 in game 284 (score:5025)
+gsf:39 in game 87 (score:5018)
+1to9only:39 in game 443 (score:4787)
+m_b_metcalf:39 in game 211 (score:4759)
+1to9only:39 in game 423 (score:4225)
+Patrice:38 in game 299 (score:5007)
+champagne:38 in game 276 (score:4976)
+
+total scores:
+m_b_metcalf:639107
+champagne:470896
+JPF:371752
+gsf:350942
+1to9only:313946
+joel64:214282
+Patrice:192836
+ronk:118264
+Pat:117164
+Robbie:95958
+dobrichev:81087
+Mauricio:76498
+papy999:58261
+TTHsieh:42039
+WosRet:27877
+GouinJP:22978
+Hajime:18973
+coloin:18459
+dinev:17999
+ssxsssxs:8693
+eleven:8004
+tarek:7847
+blue:6502
+BryanL:6219
+CSC:6155
+pseudocoup:5857
+999_Springs:5822
+SCLT:3423
+enxio27:2460
+200e200w:790
+jovi_al01:244
+xzccs:156
+ronk-Moderator:133
+wintder:89
+Ruud:39
+billeioru:34
+daj95376:0
+claudiarabia:-19
+draco:-19
+Eioru:-38
+ghfick:-50
+JasonLion:-50
+keith:-50
+Moo:-50
+surbier:-110
+skysea575:-150
+qiuyanzhe:-154
+mario133:-250
+urhegyi:-1064
+
+total wins:
+champagne:85
+1to9only:63
+JPF:55
+gsf:51
+m_b_metcalf:36
+Patrice:31
+joel64:25
+Robbie:21
+TTHsieh:19
+dobrichev:16
+ronk:16
+Mauricio:13
+papy999:8
+Pat:7
+GouinJP:4
+WosRet:4
+coloin:3
+999_Springs:1
+SCLT:1
+ssxsssxs:1
+
+highest winning score in a game (top 20):
+champagne:7325 in game 226
+joel64:7282 in game 114
+champagne:6763 in game 93
+champagne:6714 in game 145
+Mauricio:6711 in game 124
+Patrice:6430 in game 133
+champagne:6242 in game 183
+Patrice:6207 in game 175
+JPF:6129 in game 91
+Patrice:6083 in game 174
+Robbie:6058 in game 361
+gsf:6008 in game 109
+joel64:5967 in game 126
+ronk:5918 in game 148
+1to9only:5798 in game 425
+joel64:5766 in game 190
+1to9only:5761 in game 452
+JPF:5734 in game 442
+gsf:5728 in game 105
+1to9only:5689 in game 435
+
+lowest winning score in a game (top 20):
+m_b_metcalf:37 in game 331
+gsf:77 in game 144
+Robbie:195 in game 337
+Patrice:206 in game 171
+TTHsieh:271 in game 2
+m_b_metcalf:309 in game 381
+TTHsieh:350 in game 14
+JPF:353 in game 55
+m_b_metcalf:358 in game 53
+Robbie:411 in game 360
+champagne:480 in game 169
+gsf:595 in game 113
+JPF:599 in game 49
+TTHsieh:600 in game 9
+TTHsieh:631 in game 4
+TTHsieh:639 in game 5
+gsf:642 in game 21
+TTHsieh:663 in game 6
+TTHsieh:665 in game 3
+gsf:687 in game 11
+
+highest total game scores (top 20):
+17087 in game 154
+16229 in game 124
+15761 in game 126
+14942 in game 133
+14688 in game 130
+14498 in game 125
+13952 in game 118
+13892 in game 141
+13441 in game 20
+13313 in game 148
+13028 in game 93
+12815 in game 91
+12735 in game 105
+12652 in game 195
+12527 in game 129
+12390 in game 139
+12367 in game 134
+12330 in game 226
+12217 in game 138
+12128 in game 131
+
+lowest total game scores (top 20):
+  22 in game 331
+ 125 in game 144
+ 137 in game 171
+ 224 in game 337
+ 435 in game 53
+ 549 in game 381
+ 597 in game 2
+ 709 in game 360
+ 882 in game 113
+ 885 in game 55
+1048 in game 9
+1142 in game 14
+1202 in game 169
+1261 in game 72
+1337 in game 5
+1435 in game 49
+1441 in game 44
+1480 in game 4
+1486 in game 11
+1575 in game 7
+
